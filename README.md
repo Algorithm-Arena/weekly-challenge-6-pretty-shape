@@ -4,6 +4,22 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/assets/197597/66d055e5-4c92-4b3a-b87d-c1bf88806486">
 
+### Winners:
+
+* The winner of $100 is "Who Needs Prettier When You Have CSS?" by @aqandrew. The solution for the problem is just 🤯. I would have never thought about using CSS shape masks to be able to reformat your code. 👏👏👏 https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/1
+
+* The second place of $35 goes to "Code Shape Up" by @luisperezphd. It is an extremely well executed implementation of the challenge. I especially love the "one last thing" at the end of the video! https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/7
+
+* The third place of $15 goes to "prettyPerson" by @morenicogs. Formatting your code based on your profile on your webcam is hillarious. I kind of want to try to code using this just for fun. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/6
+
+* An honorary mention goes to "Format anything" by the first team of the challenge: @seanyang0813, @alexc19113800 and @kevinjzhang! Really cool use of SegmentAnything to be able to pick any image and get the shape you want. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/5
+
+* An honorary mention goes to "Night Mountain CSS Shapify" by @nikpundik. I loved how there are empty comments /**/ added to represent the stars. This is so creative! https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/3
+
+* An honorary mention goes to "🎄ChristmaSSier🎄— an opinionated CSS formatter" by @sompylasar. Such a good idea to have the * selector be the star of the christmas tree built with CSS. All the rules are re-ordered to fit pattern. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/2
+
+* An honorary mention goes to "Pretty print" by @evgenyvinnik. The biggest challenge is to figure out what to do with the overflow, the solution came with a unique twist resizing the text until it fits! https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/4
+
 ### Prizes:
 * Winner: $100
 * 2nd: $35
