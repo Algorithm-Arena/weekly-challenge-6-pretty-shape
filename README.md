@@ -8,17 +8,43 @@
 
 * The winner of $100 is "Who Needs Prettier When You Have CSS?" by @aqandrew. The solution for the problem is just 🤯. I would have never thought about using CSS shape masks to be able to reformat your code. 👏👏👏 https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/1
 
+
+
+https://github.com/user-attachments/assets/fa3fa4fe-de48-4a95-a6d4-b63369553c8f
+
+
+
 * The second place of $35 goes to "Code Shape Up" by @luisperezphd. It is an extremely well executed implementation of the challenge. I especially love the "one last thing" at the end of the video! https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/7
+
+
 
 * The third place of $15 goes to "prettyPerson" by @morenicogs. Formatting your code based on your profile on your webcam is hillarious. I kind of want to try to code using this just for fun. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/6
 
+
+
+https://github.com/user-attachments/assets/7414f279-6ead-4339-9812-21aaee04f82f
+
+
+
 * An honorary mention goes to "Format anything" by the first team of the challenge: @seanyang0813, @alexc19113800 and @kevinjzhang! Really cool use of SegmentAnything to be able to pick any image and get the shape you want. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/5
 
+
+
+https://github.com/user-attachments/assets/66f90c6b-3ac2-444a-8623-42c2c909dfde
+
+
+
 * An honorary mention goes to "Night Mountain CSS Shapify" by @nikpundik. I loved how there are empty comments /**/ added to represent the stars. This is so creative! https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/3
+
+
 
 * An honorary mention goes to "🎄ChristmaSSier🎄— an opinionated CSS formatter" by @sompylasar. Such a good idea to have the * selector be the star of the christmas tree built with CSS. All the rules are re-ordered to fit pattern. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/2
 
 * An honorary mention goes to "Pretty print" by @evgenyvinnik. The biggest challenge is to figure out what to do with the overflow, the solution came with a unique twist resizing the text until it fits! https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/4
+
+
+https://github.com/user-attachments/assets/748b1503-8551-4c91-af7d-f11e43bc28e9
+
 
 ### Prizes:
 * Winner: $100
