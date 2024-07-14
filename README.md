@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/fa3fa4fe-de48-4a95-a6d4-b63369553c8f
 
 
 
-* The third place of $15 goes to "prettyPerson" by @morenicogs. Formatting your code based on your profile on your webcam is hillarious. I kind of want to try to code using this just for fun. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/6
+* The third place of $15 goes to "prettyPerson" by @nicogs. Formatting your code based on your profile on your webcam is hillarious. I kind of want to try to code using this just for fun. https://github.com/Algorithm-Arena/weekly-challenge-6-pretty-shape/issues/6
 
 
 
